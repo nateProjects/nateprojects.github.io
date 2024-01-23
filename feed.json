@@ -9,5 +9,21 @@
         "name": "Nate"
     },
     "items": [
+        {
+            "id": "https://nateprojects.github.io/wanted-hero-board-game/",
+            "url": "https://nateprojects.github.io/wanted-hero-board-game/",
+            "title": "Wanted Hero Board Game",
+            "summary": "In 2013 I spent several months designing, testing and revising a card-based board game, which contains many of the same elements as RPG Games, but without the need for preparation or acting out characters. As I lacked the artistic talents to illustrate it I was helped&hellip;",
+            "content_html": "<p>In 2013 I spent several months designing, testing and revising a <a href=\"https://boardgamegeek.com/boardgame/154554/race-til-thorin\" target=\"_blank\" rel=\"noopener\">card-based board game</a>, which contains many of the same elements as RPG Games, but without the need for preparation or acting out characters. As I lacked the artistic talents to illustrate it I was helped by Jaime Buckley who let me use the characters and setting from his books.</p>\n<figure class=\"alignnone size-full wp-image-49\"><a href=\"https://boardgamegeek.com/boardgame/154554/race-til-thorin\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\"  src=\"https://natescreations.files.wordpress.com/2018/02/tilthorin.jpg?w=770\" sizes=\"(max-width: 300px) 100vw, 300px\" srcset=\"https://natescreations.files.wordpress.com/2018/02/tilthorin.jpg 300w, https://natescreations.files.wordpress.com/2018/02/tilthorin.jpg?w=150&amp;h=113 150w\" alt=\"Wanted Hero Board Game\" data-attachment-id=\"49\" data-permalink=\"https://natescreations.wordpress.com/tilthorin/\" data-orig-file=\"https://natescreations.files.wordpress.com/2018/02/tilthorin.jpg\" data-orig-size=\"300,225\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"Wanted Hero Board Game\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://natescreations.files.wordpress.com/2018/02/tilthorin.jpg?w=300\" data-large-file=\"https://natescreations.files.wordpress.com/2018/02/tilthorin.jpg?w=300\" data-is-external-image=\"true\"></figure></a></p>\n<p>UPDATE:</p>\n<p>This game is no longer <a href=\"https://www.thegamecrafter.com/games/race-to-til-thorin\" target=\"_blank\" rel=\"noopener\">for sale</a>, but it’s rules can be <a href=\"https://drive.google.com/open?id=0B7-XgJLB0Xz_V1hsUXF0YWMxVVU\" target=\"_blank\" rel=\"noopener\">read here</a>.</p>",
+            "image": "https://nateprojects.github.io/media/posts/2/tilthorin.jpg",
+            "author": {
+                "name": "Nate"
+            },
+            "tags": [
+                   "Games"
+            ],
+            "date_published": "2024-01-23T20:31:58+00:00",
+            "date_modified": "2024-01-23T20:31:58+00:00"
+        }
     ]
 }
